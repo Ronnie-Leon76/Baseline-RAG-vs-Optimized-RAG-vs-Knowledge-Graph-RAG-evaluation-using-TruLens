@@ -1,0 +1,11 @@
+Query No,Query text,Document No,Document Title,Output_1,Output_2,Output_3,Output_4,Output_5
+1,Can the Conference of the Parties of the WHO FCTC assist countries in securing financial resources for implementation?,1,1_WHO_FCTC,,,,,
+2,"What should be the minimum size of health warnings and messages on tobacco products, and where should they be placed?",1,1_WHO_FCTC,,,,,
+3,"I opened a company to produce sensors in Kuala Lumpur. Based on the law in the file, how should I register for sales tax, and what are my obligations?",2,2_SalesTaxAct2018_Malaysia,,,,,
+4,"I opened a company to produce sensors in Kuala Lumpur. During product I paid sales tax on my inputs. Based on the law in the file, what are conditions to be eligible for a refund of the sales tax?",2,2_SalesTaxAct2018_Malaysia,,,,,
+5,What specific indicators and targets are outlined in Canada's Cybersecurity Strategy?,3,3_Canada_Cybersec_Strategy,,,,,
+6,What measures is the government of Canada taking in response to data security challenges posed by the emergence of novel technologies?,3,3_Canada_Cybersec_Strategy,,,,,
+7,What are the API requirements that apply to the Consent building block?,4,4_GovStack_Specs,,,,,
+8,What additional building blocks are essential to support the functionality of the consent building block?,4,4_GovStack_Specs,,,,,
+9,What are the key findings of the CyberPeace Institute's analysis of cyber threats affecting NGOs in International Geneva?,5,5_CyberPeace_Report,,,,,
+10,What are the key lessons learnt from the case studies examined in the report?,5,5_CyberPeace_Report,,,,,

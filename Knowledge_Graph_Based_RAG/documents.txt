@@ -1,0 +1,118 @@
+Table of Contents
+Tackling the Threat
+
+Account and Software Management
+
+Backup Procedures
+
+Other Active Cybersecurity Measures
+
+Training
+
+2
+
+28
+
+29
+
+30
+
+31
+
+33
+
+CyberPeace Institute | 2023
+About Building Blocks
+Architecture and Nonfunctional Requirements
+2 Introduction
+SDG Digital Investment Framework
+Reusable software components
+Facilitates one or more generic Workflows
+Applicable to multiple SDG Use Cases across multiple sectors
+Interoperable with other ICT Building Blocks
+Designed for Scalability
+Designed for Extensibility
+Standards Based Conformance or Compliance
+Digital Public Goods Alliance (DPGA)
+Packaged in a container
+Include a information mediator where communication flows between services that are not co-located
+address management
+message routing
+access rights management
+organization-level authentication
+machine-level authentication
+transport-level encryption
+time-stamping
+digital signature of messages
+logging
+error handling
+monitoring and alerting
+service registry and discovery
+3 Considerations
+4 Building Block Design Principles
+User-centered design
+Based on open standards
+Built on open-source software where possible
+Cloud native where possible (Docker/Docker Compose/OCI containers)
+Attractive to ICT industry and individual developers in deployment environment (incentives must be aligned)
+Lower cost than commercial solutions due to shared development costs
+Building Blocks are audited and certified before being made available
+Development processes and standards enforce quality and security
+Different certification levels reflect level of standards-compliance
+Regular security scanning and auditing
+Public ratings and reviews
+Comprehensive logging and exception handling
+SSO allows for signing in once for multiple services
+Shared ownership of code
+Deployment and development processes and standards are open to contributors
+Community-driven development tools for documentation and support
+Building Blocks can be reused in multiple contexts
+Each Building Block is autonomous
+Building Blocks should be easy to set up
+Standardized configuration and communications protocols should be used to connecting Building Blocks
+Building Blocks can be provided as a service (ICT opportunity)
+Occasional power
+Low bandwidth
+Low-reliability connectivity
+Easily scalable for high availability and reliability
+API-only based decoupling
+Asynchronous communications pattern decoupled through rooms is ideal
+Eventual consistency for data
+5 Cross-Cutting Requirements
+APIs MUST not include Personally Identifiable Information (PII) or session keys in URLs - use POST or other methods for this
+MUST support caching/retries
+Definition of the OpenAPI standard
+Other Considerations
+EOL SHOULD be at Least 5 Years
+Preference for TIOBE Top 25 Languages
+Regular Security and Code Quality Audits SHOULD be Run
+SHOULD Include Unit and Integration Test Coverage
+Building blocks should include tests that provide both unit and integration test coverage
+SHOULD Follow Best Practices for Public Code
+Code in the Open
+Bundle Policy and Source Code
+Create Reusable and Portable Code
+Welcome Contributions
+Maintain Version Control
+Require Review of Contributions
+Document Your Objectives
+Document your code
+Use plain English
+Use open standards
+Use continuous integration
+Publish with an open license
+Use a coherent style
+Pay attention to codebase maturity
+CONSENT BUILDING BLOCK
+2 Description
+What Consent Is
+What Consent Is Not
+Assumptions
+Consent Agreement Lifecycle
+Signatures
+Diagram Source
+Actors
+Interactions with other Building Blocks
+3 Terminology
+4 Key Digital Functionalities
+5 Cross-Cutting Requirements
